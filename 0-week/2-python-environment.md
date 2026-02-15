@@ -63,4 +63,4 @@ Proses pembuatan venv melalui terminal atau powershell:
 6. Setelah selesai python environment dapat digunakan di vscode
 7. Buka vscode buat file baru, pada pojok kanan bawah akan ada python dan versi python
 8. Klik pada nomor versi >> "Enter interpreter path" >> Find.. Browse >> Buka folder venv/data/Scripts kemudian pilih python.exe
-9. Apabila terdapat library yang kurang saat code dijalankan, ulangi proses aktivasi poin 2 dan install seperti poin 5, sesuaikan nama library.
+9. Apabila terdapat library yang kurang saat code dijalankan, ulangi proses aktivasi poin 1 dan 2 kemudian install seperti poin 5, sesuaikan nama library.
