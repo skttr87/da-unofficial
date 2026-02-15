@@ -52,7 +52,7 @@ Proses pembuatan venv melalui terminal atau powershell:
    ./Activate.ps1
    ```
 3. Jika berhasil akan muncul nama venv pada baris awal command dalam hal ini akan muncul "(data)"
-4. Upgrade package installer python terlebih dahulu (hanya perlu dilakukan sekali saat awal membuat venv)
+4. Upgrade package installer python terlebih dahulu (hanya perlu dilakukan sekali saat venv baru dibuat)
    ``` python
    python -m pip install --upgrade pip
    ```
