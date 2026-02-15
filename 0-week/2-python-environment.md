@@ -34,7 +34,7 @@ Proses pembuatan venv melalui terminal atau powershell:
    ``` python
    python -m venv data
    ```
-6. Tunggu proses selesai, bisa dicek saat ini ini apakah pada drive D:/venv telah ada folder baru bernama "data" jika sudah maka venv berhasil dibuat.
+6. Tunggu proses selesai, bisa dicek apakah pada drive D:/venv telah ada folder baru bernama "data" jika sudah maka venv berhasil dibuat.
 
 ---
 
