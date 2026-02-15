@@ -7,7 +7,7 @@
 ### 2. Python
 - Unduh dari: https://www.python.org/downloads/  
 - Saat instalasi, **centang opsi _Add Python X.XX to PATH_**
-- Untuk uji coba apakah python telah berhasil ter install, buka terminal atau powershell, jalankan
+- Untuk uji coba apakah python telah berhasil terinstall, buka terminal atau powershell, jalankan
   ``` bash
   python --version
   ```
