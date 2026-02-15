@@ -1,6 +1,6 @@
 ## Aplikasi yang Digunakan
 
-### 1. Visual Studio Code
+### 1. Visual Studio Code (vscode)
 - Unduh dari: https://code.visualstudio.com/download  
 - Install menggunakan opsi **System Installer** (disarankan)
 
