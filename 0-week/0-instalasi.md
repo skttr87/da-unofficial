@@ -15,7 +15,7 @@
 ---
 
 ## Setup Dasar
-
+### vscode untuk python
 1. Buka **Visual Studio Code**
 2. Install extension **Python** (rilis resmi oleh Microsoft)
 3. Buat file baru dengan nama bebas dan ekstensi `.py`
@@ -25,3 +25,8 @@
    ```python
    print("Hello World")
    ```
+
+### vscode untuk Microsoft SQL Server
+Lihat <a href="https://github.com/skttr87/da-unofficial/blob/main/0-week/1-vscode-mssql.md" target="_blank">
+vscode-mssql
+</a>
