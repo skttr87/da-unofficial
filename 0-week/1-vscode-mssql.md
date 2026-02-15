@@ -2,7 +2,7 @@
 1. Pastikan vscode sudah diinstall sebelumnya
 2. Buka vscode lalu install extension "mssql" pastikan extension dirilis oleh microsoft
 3. Tekan CTRL + SHIFT + P lalu search "Open User Settings (JSON)"
-4. Tambahkan code berikut, sesuaikan dengan server dan user masing:
+4. Tambahkan code berikut, sesuaikan dengan server dan user masing-masing:
    ```bash
        "mssql.connections": [
         {
