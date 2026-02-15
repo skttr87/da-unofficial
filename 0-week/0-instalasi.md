@@ -8,7 +8,9 @@
 - Unduh dari: https://www.python.org/downloads/  
 - Saat instalasi, **centang opsi _Add Python X.XX to PATH_**
 - Untuk uji coba apakah python telah berhasil ter install, buka cmd/powershel/terminal, jalankan
-    python --version
+  ``` bash
+  python --version
+  ```
 
 ---
 
@@ -16,8 +18,10 @@
 
 1. Buka **Visual Studio Code**
 2. Install extension **Python** (rilis resmi oleh Microsoft)
-3. Buat file baru dengan nama bebas dan ekstensi `.py`  
+3. Buat file baru dengan nama bebas dan ekstensi `.py`
    Contoh: `main.py`
-4. Tulis kode Python sederhana, misalnya:
+4. Pilih python interpreter
+6. Tulis kode Python sederhana, misalnya:
    ```python
    print("Hello World")
+   ```
