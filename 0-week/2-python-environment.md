@@ -39,7 +39,7 @@ Proses pembuatan venv melalui terminal atau powershell:
 ---
 
 ## Menginstall library pada venv data
-1. buka terminal dan masuk ke folder Scripts dalam venv
+1. Buka terminal dan masuk ke folder Scripts dalam venv
    ``` bash
    cd D:\venv\data\Scripts
    ```
@@ -52,7 +52,7 @@ Proses pembuatan venv melalui terminal atau powershell:
    ./Activate.ps1
    ```
 3. Jika berhasil akan muncul nama venv pada baris awal command dalam hal ini akan muncul "(data)"
-4. upgrade package installer python terlebih dahulu (hanya perlu dilakukan sekali saat awal membuat venv)
+4. Upgrade package installer python terlebih dahulu (hanya perlu dilakukan sekali saat awal membuat venv)
    ``` python
    python -m pip install --upgrade pip
    ```
