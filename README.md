@@ -9,4 +9,5 @@ Dengan semakin banyak pegawai yang memahami dan menggunakan teknologi dalam akti
 ---
 
 Materi dapat diakses setiap minggu:
+- <a href="https://github.com/skttr87/da-unofficial/tree/main/0-week" target="_blank">Week 0</a>
 - [Week 0](https://github.com/skttr87/da-unofficial/tree/main/0-week)
