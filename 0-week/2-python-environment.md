@@ -38,8 +38,8 @@ Proses pembuatan venv melalui terminal atau powershell:
 
 ---
 
-## Menginstall library pada venv data
-1. Buka terminal dan masuk ke folder Scripts dalam venv
+## Menginstall library pada venv
+1. Buka terminal dan masuk ke folder Scripts dalam venv (sesuaikan folder dan nama venv)
    ``` bash
    cd D:\venv\data\Scripts
    ```
